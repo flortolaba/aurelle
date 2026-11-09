@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aurelle/static/css/main.972fafbc.css",
+    "main.js": "/aurelle/static/js/main.df51d75e.js",
+    "static/js/453.3852239a.chunk.js": "/aurelle/static/js/453.3852239a.chunk.js",
+    "index.html": "/aurelle/index.html",
+    "main.972fafbc.css.map": "/aurelle/static/css/main.972fafbc.css.map",
+    "main.df51d75e.js.map": "/aurelle/static/js/main.df51d75e.js.map",
+    "453.3852239a.chunk.js.map": "/aurelle/static/js/453.3852239a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972fafbc.css",
+    "static/js/main.df51d75e.js"
+  ]
+}
